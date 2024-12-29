@@ -18,6 +18,6 @@ docker build -t frp:0.61.1 .
 
 ## 配置
 
-All configuration files are visible:[./conf/frps_full_example.toml](./conf/frps_full_example.toml)
+All configuration files are visible:[./conf/legacy/frps_legacy_full.ini](./conf/legacy/frps_legacy_full.ini)
 
-全部配置文件可见：[./conf/frps_full_example.toml](./conf/frps_full_example.toml)
+全部配置文件可见：[./conf/conf/legacy/frps_legacy_full.ini](./conf/legacy/frps_legacy_full.ini)
